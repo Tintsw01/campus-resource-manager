@@ -1,5 +1,4 @@
 # Smart Campus Resource Booking System
-
 https://github.com/Tintsw01/campus-resource-manager/edit/main/README.md
 [link Text](https://github.com/Tintsw01/campus-resource-manager/edit/main/README.md)
 
