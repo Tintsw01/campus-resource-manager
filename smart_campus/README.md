@@ -1,4 +1,6 @@
 # Smart Campus Resource Booking System
+https://github.com/Tintsw01/campus-resource-manager/edit/main/smart_campus/README.md
+[Link Text](https://github.com/Tintsw01/campus-resource-manager/edit/main/smart_campus/README.md)
 
 Python 3 + Tkinter + SQLite desktop application (standard library only, no pip installs).
 
