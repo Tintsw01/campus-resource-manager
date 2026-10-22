@@ -1,5 +1,10 @@
 # Smart Campus Resource Booking System
+Name and Surname: [Tintswalo Mkansi]
+ Student Number: [402422682]
+ Qualification: [BSc IT]
+ Module: Programming 512
 
+GitHub Repository:
 https://github.com/Tintsw01/campus-resource-manager/edit/main/smart_campus/README.md
 [Link Text](https://github.com/Tintsw01/campus-resource-manager/edit/main/smart_campus/README.md)
 
